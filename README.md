@@ -1,2 +1,1 @@
-# ecommerce-component
-Taller Practico
+# Patron de diseño abstract factory
